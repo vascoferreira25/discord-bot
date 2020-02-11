@@ -7,7 +7,7 @@ A Discord Bot made with Clojurescript.
 1. Clone this repo
 
     ``` shell
-    git clone https://github.com/vascoferreira25/
+    git clone https://github.com/vascoferreira25/discord-bot
     ```
 
 2. Install NPM dependencies
